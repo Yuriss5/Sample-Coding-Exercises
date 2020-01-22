@@ -22,9 +22,7 @@ public class MoviesOnFlight {
 	
 	public static void main(String[] args) {
 		//Declare an array of type short since we won't be handling movies larger than three or four hours and no decimals
-		//short movies[] = new short[]{90, 85, 75, 60, 120, 150, 125};
-		
-		short movies[] = new short[] {};
+		short movies[] = new short[]{90, 85, 75, 60, 120, 150, 125};
 		
 		//short movies[] = new short[]{125,150,120,60,75,85,90};
 		
